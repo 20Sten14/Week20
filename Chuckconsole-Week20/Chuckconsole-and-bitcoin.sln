@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chuckconsole-and-bitcoin", "Chuckconsole-and-bitcoin\Chuckconsole-and-bitcoin.csproj", "{2C765804-758C-4E76-93E8-EC391D6ACD32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckForm", "ChuckForm\ChuckForm.csproj", "{7AD2F637-EBFC-4A50-A9E2-4FAC2E3F536B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C765804-758C-4E76-93E8-EC391D6ACD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C765804-758C-4E76-93E8-EC391D6ACD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C765804-758C-4E76-93E8-EC391D6ACD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C765804-758C-4E76-93E8-EC391D6ACD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD2F637-EBFC-4A50-A9E2-4FAC2E3F536B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD2F637-EBFC-4A50-A9E2-4FAC2E3F536B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD2F637-EBFC-4A50-A9E2-4FAC2E3F536B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD2F637-EBFC-4A50-A9E2-4FAC2E3F536B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1313F76D-07DD-4FE0-8950-23144E2BE66F}
+	EndGlobalSection
+EndGlobal
